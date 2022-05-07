@@ -17,7 +17,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/yg0531/blog
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
